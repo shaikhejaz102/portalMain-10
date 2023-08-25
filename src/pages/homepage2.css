@@ -1,0 +1,229 @@
+.welcome-to-titan,
+.your-journey-map {
+  position: absolute;
+  top: 46px;
+  left: 45px;
+}
+.welcome-to-titan {
+  top: 69px;
+  font-size: var(--text-size);
+}
+.component-28-child {
+  position: absolute;
+  height: 100%;
+  width: 100vw;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray);
+}
+
+
+.interface-essentialhome-icon {
+  position: absolute;
+  height: 57.14%;
+  width: 2.5%;
+  top: 21.43%;
+  right: 96.25%;
+  bottom: 21.43%;
+  left: 1.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.menu {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.group-child {
+  position: absolute;
+  height: 77.78%;
+  width: 15.79%;
+  top: 5.56%;
+  right: 0;
+  bottom: 16.67%;
+  left: 2.21vw;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu-parent {
+  position: absolute;
+  height: 32.14%;
+  width: 5.94%;
+  top: 32.14%;
+  right: 7.97%;
+  bottom: 35.71%;
+  left: 87vw;
+  cursor: pointer;
+}
+.component-28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(6px);
+  width: 640px;
+  height: 28px;
+  font-size: var(--overline-size);
+  color: var(--color-white);
+}
+.map-01-1-icon {
+  position: absolute;
+  top: 352px;
+  left: 62px;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.frame-icon,
+.frame-icon1 {
+  position: absolute;
+  top: -142.9px;
+  left: 318.07px;
+  width: 14.24px;
+  height: 45.23px;
+  overflow: hidden;
+}
+.frame-icon1 {
+  top: -115.18px;
+  left: 38.51px;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  position: absolute;
+  top: -258.43px;
+  left: 395.47px;
+  width: 14.24px;
+  height: 45.23px;
+  overflow: hidden;
+}
+.frame-icon3,
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  top: 536.03px;
+  left: 274.95px;
+}
+.frame-icon4,
+.frame-icon5,
+.frame-icon6 {
+  top: 440.14px;
+  left: 420.51px;
+}
+.frame-icon5,
+.frame-icon6 {
+  top: 354.66px;
+  left: 490.97px;
+}
+.frame-icon6 {
+  top: 352px;
+  left: 254.15px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 21px;
+  height: 21px;
+}
+.b,
+.ellipse-parent {
+  position: absolute;
+  top: 4px;
+  left: 7px;
+}
+.ellipse-parent {
+  top: 559px;
+  left: 255px;
+  width: 21px;
+  height: 21px;
+}
+.ellipse-container,
+.ellipse-group,
+.group-div {
+  position: absolute;
+  top: 464px;
+  left: 400px;
+  width: 21px;
+  height: 21px;
+}
+.ellipse-container,
+.group-div {
+  top: 377px;
+  left: 505px;
+}
+.group-div {
+  top: 344px;
+  left: 235px;
+}
+.ellipse-parent1,
+.map-01-1-parent {
+  position: absolute;
+  top: -352px;
+  left: -62px;
+  width: 635.38px;
+  height: 640px;
+}
+.ellipse-parent1 {
+  top: -91px;
+  left: 19px;
+  width: 21px;
+  height: 21px;
+}
+.ellipse-parent2,
+.ellipse-parent3,
+.group-parent {
+  position: absolute;
+  top: -232px;
+  left: 409px;
+  width: 21px;
+  height: 21px;
+}
+.ellipse-parent3,
+.group-parent {
+  top: -117px;
+  left: 334px;
+}
+.group-parent {
+  top: 92px;
+  left: 45px;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  font-size: var(--heading-2-size);
+}
+.homepage-2-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(61, 61, 61, 0.3);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    /* width: 110vw;
+    height: 115vh; */
+}
+.homepage-2 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow-y: auto;
+  background-image: url(/public/homepage-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--heading-1-size);
+  color: var(--color-darkslategray-100);
+  font-family: var(--heading-2);
+}
